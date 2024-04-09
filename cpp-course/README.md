@@ -5,4 +5,4 @@
 
 
 ## Лабораторные работы  
-тут будет что-то в будущем `:)`
+1. [Представление чисел с плавающей точкой](https://github.com/solonitski/my-study-at-ITMO/tree/main/cpp-course/Labs/Lab1)  
