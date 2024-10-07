@@ -7,3 +7,6 @@
 
 ## Лабораторные работы  
 1. [Представление чисел с плавающей точкой](https://github.com/solonitski/my-study-at-ITMO/tree/main/cpp-course/Labs/Lab1)  
+2. [Определение временного смещения аудио-файлов](https://github.com/solonitski/my-study-at-ITMO/tree/main/cpp-course/Labs/Lab2)
+3. [BucketStorage](https://github.com/solonitski/my-study-at-ITMO/tree/main/cpp-course/Labs/Lab3)
+4. [Сапёр](https://github.com/solonitski/my-study-at-ITMO/tree/main/cpp-course/Labs/Lab4)
