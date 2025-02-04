@@ -1,0 +1,85 @@
+=== Вт 24 дек 2024 06:29:45 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root      0.0  0.2 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root      0.0  0.2 mem2.bash
+
+=== Вт 24 дек 2024 06:29:50 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     44.4 11.6 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     37.0 11.7 mem2.bash
+
+=== Вт 24 дек 2024 06:29:55 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     41.1 23.6 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     41.3 23.9 mem2.bash
+
+=== Вт 24 дек 2024 06:30:00 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     41.4 26.0 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     41.5 26.3 mem2.bash
+
+=== Вт 24 дек 2024 06:30:05 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     40.0 29.2 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     40.0 29.4 mem2.bash
+
+=== Вт 24 дек 2024 06:30:11 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     37.2 28.4 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     37.3 28.9 mem2.bash
+
+=== Вт 24 дек 2024 06:30:16 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     34.9 32.8 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     35.0 33.2 mem2.bash
+
+=== Вт 24 дек 2024 06:30:21 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     35.3 32.3 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     35.3 32.7 mem2.bash
+
+=== Вт 24 дек 2024 06:30:26 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     35.7 34.4 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     35.7 35.0 mem2.bash
+
+=== Вт 24 дек 2024 06:31:48 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     14.6 38.7 mem.bash
+    PID USER     %CPU %MEM COMMAND
+   5509 root     13.9  0.0 mem2.bash
+
+=== Вт 24 дек 2024 06:33:26 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     11.7 50.3 mem.bash
+    PID USER     %CPU %MEM COMMAND
+
+=== Вт 24 дек 2024 06:33:31 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     13.2 63.7 mem.bash
+    PID USER     %CPU %MEM COMMAND
+
+=== Вт 24 дек 2024 06:33:36 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     14.6 72.3 mem.bash
+    PID USER     %CPU %MEM COMMAND
+
+=== Вт 24 дек 2024 06:33:41 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     15.7 74.3 mem.bash
+    PID USER     %CPU %MEM COMMAND
+
+=== Вт 24 дек 2024 06:34:01 MSK ===
+    PID USER     %CPU %MEM COMMAND
+   5508 root     16.4  0.0 mem.bash
+    PID USER     %CPU %MEM COMMAND
+

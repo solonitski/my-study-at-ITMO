@@ -1,0 +1,180 @@
+=== Вт 24 дек 2024 06:29:45 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:29:50 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:29:55 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:00 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:05 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:11 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:16 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:21 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:30:26 MSK ===
+[ 1397.568746] [   3054]  1000  3054     5514      160      128       32         0    69632       64             0 top
+[ 1397.568750] [   3609]  1000  3609   145154      234      218       15         1   331776     4864             0 gedit
+[ 1397.568753] [   4065]  1000  4065     4998       32        0       32         0    65536      352             0 bash
+[ 1397.568757] [   4075]  1000  4075     5880       62       30       32         0    69632      224             0 sudo
+[ 1397.568760] [   4076]  1000  4076     5880       31       31        0         0    53248      224             0 sudo
+[ 1397.568764] [   4077]     0  4077     4770       96       64       32         0    65536       64             0 bash
+[ 1397.568767] [   4079]     0  4079   863331   380960   380928       32         0  6955008   477696             0 mem.bash
+[ 1397.568770] [   4208]     0  4208     1587       64       32       32         0    53248        0             0 free
+[ 1397.568774] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-5cd53de5-d789-4905-9d1d-8ff3539e6228.scope,task=mem.bash,pid=4079,uid=0
+[ 1397.568791] Out of memory: Killed process 4079 (mem.bash) total-vm:3453324kB, anon-rss:1523712kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6792kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:33:21 MSK ===
+[ 4701.308078] [   4966]  1000  4966   682719     1703     1670       32         1   352256     2016             0 gjs
+[ 4701.308082] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4701.308085] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4701.308089] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4701.308092] [   5506]     0  5506     4770       96       64       32         0    69632       64             0 bash
+[ 4701.308095] [   5508]     0  5508   431031   195104   195072       32         0  3489792   231296             0 mem.bash
+[ 4701.308099] [   5509]     0  5509   434991   197792   197760       32         0  3518464   232576             0 mem2.bash
+[ 4701.308102] [   5629]     0  5629     5405       96       64       32         0    73728        0             0 ps
+[ 4701.308106] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem2.bash,pid=5509,uid=0
+[ 4701.308123] Out of memory: Killed process 5509 (mem2.bash) total-vm:1739964kB, anon-rss:791040kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:3436kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:33:26 MSK ===
+[ 4701.308078] [   4966]  1000  4966   682719     1703     1670       32         1   352256     2016             0 gjs
+[ 4701.308082] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4701.308085] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4701.308089] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4701.308092] [   5506]     0  5506     4770       96       64       32         0    69632       64             0 bash
+[ 4701.308095] [   5508]     0  5508   431031   195104   195072       32         0  3489792   231296             0 mem.bash
+[ 4701.308099] [   5509]     0  5509   434991   197792   197760       32         0  3518464   232576             0 mem2.bash
+[ 4701.308102] [   5629]     0  5629     5405       96       64       32         0    73728        0             0 ps
+[ 4701.308106] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem2.bash,pid=5509,uid=0
+[ 4701.308123] Out of memory: Killed process 5509 (mem2.bash) total-vm:1739964kB, anon-rss:791040kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:3436kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:33:31 MSK ===
+[ 4701.308078] [   4966]  1000  4966   682719     1703     1670       32         1   352256     2016             0 gjs
+[ 4701.308082] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4701.308085] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4701.308089] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4701.308092] [   5506]     0  5506     4770       96       64       32         0    69632       64             0 bash
+[ 4701.308095] [   5508]     0  5508   431031   195104   195072       32         0  3489792   231296             0 mem.bash
+[ 4701.308099] [   5509]     0  5509   434991   197792   197760       32         0  3518464   232576             0 mem2.bash
+[ 4701.308102] [   5629]     0  5629     5405       96       64       32         0    73728        0             0 ps
+[ 4701.308106] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem2.bash,pid=5509,uid=0
+[ 4701.308123] Out of memory: Killed process 5509 (mem2.bash) total-vm:1739964kB, anon-rss:791040kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:3436kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:33:36 MSK ===
+[ 4701.308078] [   4966]  1000  4966   682719     1703     1670       32         1   352256     2016             0 gjs
+[ 4701.308082] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4701.308085] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4701.308089] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4701.308092] [   5506]     0  5506     4770       96       64       32         0    69632       64             0 bash
+[ 4701.308095] [   5508]     0  5508   431031   195104   195072       32         0  3489792   231296             0 mem.bash
+[ 4701.308099] [   5509]     0  5509   434991   197792   197760       32         0  3518464   232576             0 mem2.bash
+[ 4701.308102] [   5629]     0  5629     5405       96       64       32         0    73728        0             0 ps
+[ 4701.308106] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem2.bash,pid=5509,uid=0
+[ 4701.308123] Out of memory: Killed process 5509 (mem2.bash) total-vm:1739964kB, anon-rss:791040kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:3436kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:33:41 MSK ===
+[ 4701.308078] [   4966]  1000  4966   682719     1703     1670       32         1   352256     2016             0 gjs
+[ 4701.308082] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4701.308085] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4701.308089] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4701.308092] [   5506]     0  5506     4770       96       64       32         0    69632       64             0 bash
+[ 4701.308095] [   5508]     0  5508   431031   195104   195072       32         0  3489792   231296             0 mem.bash
+[ 4701.308099] [   5509]     0  5509   434991   197792   197760       32         0  3518464   232576             0 mem2.bash
+[ 4701.308102] [   5629]     0  5629     5405       96       64       32         0    73728        0             0 ps
+[ 4701.308106] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem2.bash,pid=5509,uid=0
+[ 4701.308123] Out of memory: Killed process 5509 (mem2.bash) total-vm:1739964kB, anon-rss:791040kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:3436kB oom_score_adj:0
+
+=== Вт 24 дек 2024 06:35:12 MSK ===
+[ 4811.346211] [   4966]  1000  4966   682719     1351     1318       32         1   352256     2368             0 gjs
+[ 4811.346214] [   5492]  1000  5492     4998       32        0       32         0    69632      352             0 bash
+[ 4811.346217] [   5504]  1000  5504     5879       61       29       32         0    73728      224             0 sudo
+[ 4811.346221] [   5505]  1000  5505     5879       30       30        0         0    57344      224             0 sudo
+[ 4811.346224] [   5506]     0  5506     4803       96       64       32         0    69632       96             0 bash
+[ 4811.346227] [   5508]     0  5508   856896   410208   410176       32         0  6897664   442048             0 mem.bash
+[ 4811.346231] [   5688]  1000  5688   101982     1535     1504       31         0   241664        0             0 tracker-extract
+[ 4811.346234] [   5706]     0  5706     5405       96       64       32         0    73728        0             0 ps
+[ 4811.346238] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-eae3b940-8221-4e27-b18f-b6cd4e398867.scope,task=mem.bash,pid=5508,uid=0
+[ 4811.346254] Out of memory: Killed process 5508 (mem.bash) total-vm:3427584kB, anon-rss:1640704kB, file-rss:128kB, shmem-rss:0kB, UID:0 pgtables:6736kB oom_score_adj:0
+
